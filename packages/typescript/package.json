@@ -1,6 +1,6 @@
 {
   "name": "@import-meta-env/typescript",
-  "version": "0.4.0",
+  "version": "0.4.1",
   "description": "Automatically generate .d.ts from .env.example",
   "license": "MIT",
   "author": "Ernest",
