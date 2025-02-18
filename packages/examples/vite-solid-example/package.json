@@ -12,7 +12,7 @@
   "license": "MIT",
   "devDependencies": {
     "cross-env": "7.0.3",
-    "typescript": "4.9.5",
+    "typescript": "5.7.3",
     "vite": "3.2.11",
     "vite-plugin-solid": "2.11.1"
   },
