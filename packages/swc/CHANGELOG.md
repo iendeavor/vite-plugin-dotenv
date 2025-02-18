@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [0.4.40](https://github.com/runtime-env/import-meta-env/compare/swc0.4.39...swc0.4.40) (2025-02-18)
+
+
+### Bug Fixes
+
+* **deps:** pin dependencies ([#1788](https://github.com/runtime-env/import-meta-env/issues/1788)) ([6f42d9e](https://github.com/runtime-env/import-meta-env/commit/6f42d9e97ff8c04940b1c0df285e0704b2719517))
+
 ## [0.4.39](https://github.com/runtime-env/import-meta-env/compare/swc0.4.38...swc0.4.39) (2025-02-08)
 
 
