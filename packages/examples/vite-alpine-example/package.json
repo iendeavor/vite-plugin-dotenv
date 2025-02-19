@@ -9,7 +9,7 @@
   },
   "devDependencies": {
     "cross-env": "7.0.3",
-    "vite": "3.2.11"
+    "vite": "6.1.1"
   },
   "dependencies": {
     "alpinejs": "3.14.8"
