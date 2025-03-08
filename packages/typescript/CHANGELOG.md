@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [0.4.1](https://github.com/runtime-env/import-meta-env/compare/typescript0.4.0...typescript0.4.1) (2025-03-08)
+
+
+### Bug Fixes
+
+* **deps:** pin dependencies ([#1788](https://github.com/runtime-env/import-meta-env/issues/1788)) ([6f42d9e](https://github.com/runtime-env/import-meta-env/commit/6f42d9e97ff8c04940b1c0df285e0704b2719517))
+
 ## [0.4.0](https://github.com/runtime-env/import-meta-env/compare/typescript0.3.4...typescript0.4.0) (2024-09-01)
 
 

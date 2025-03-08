@@ -1,6 +1,6 @@
 {
   "name": "@import-meta-env/flow",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "Automatically generate flow type from .env.example",
   "license": "MIT",
   "author": "Ernest",

@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [0.2.3](https://github.com/runtime-env/import-meta-env/compare/prepare0.2.2...prepare0.2.3) (2025-03-08)
+
+
+### Bug Fixes
+
+* **deps:** pin dependencies ([#1788](https://github.com/runtime-env/import-meta-env/issues/1788)) ([6f42d9e](https://github.com/runtime-env/import-meta-env/commit/6f42d9e97ff8c04940b1c0df285e0704b2719517))
+
 ## [0.2.2](https://github.com/runtime-env/import-meta-env/compare/prepare0.2.1...prepare0.2.2) (2025-01-24)
 
 

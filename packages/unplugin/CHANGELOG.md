@@ -2,6 +2,15 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [0.6.3](https://github.com/runtime-env/import-meta-env/compare/unplugin0.6.2...unplugin0.6.3) (2025-03-08)
+
+
+### Bug Fixes
+
+* **deps:** pin dependencies ([#1788](https://github.com/runtime-env/import-meta-env/issues/1788)) ([6f42d9e](https://github.com/runtime-env/import-meta-env/commit/6f42d9e97ff8c04940b1c0df285e0704b2719517))
+* **deps:** update dependency unplugin to v2.2.0 ([#1822](https://github.com/runtime-env/import-meta-env/issues/1822)) ([8fbaabf](https://github.com/runtime-env/import-meta-env/commit/8fbaabf542a7497639439d9910b8a9a6c39f7296))
+* **deps:** update dependency webpack to v5.98.0 ([#1849](https://github.com/runtime-env/import-meta-env/issues/1849)) ([0856ce5](https://github.com/runtime-env/import-meta-env/commit/0856ce5350bac4872a379dc110ec618a57b2331f))
+
 ## [0.6.2](https://github.com/runtime-env/import-meta-env/compare/unplugin0.6.1...unplugin0.6.2) (2024-12-22)
 
 
