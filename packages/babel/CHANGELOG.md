@@ -2,6 +2,15 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [0.5.1](https://github.com/runtime-env/import-meta-env/compare/babel0.5.0...babel0.5.1) (2025-03-08)
+
+
+### Bug Fixes
+
+* **deps:** pin dependencies ([#1788](https://github.com/runtime-env/import-meta-env/issues/1788)) ([6f42d9e](https://github.com/runtime-env/import-meta-env/commit/6f42d9e97ff8c04940b1c0df285e0704b2719517))
+* **deps:** update babel monorepo ([#1800](https://github.com/runtime-env/import-meta-env/issues/1800)) ([e88d6bb](https://github.com/runtime-env/import-meta-env/commit/e88d6bb192a1c4b1b673714711d752392efc6dd4))
+* **deps:** update babel monorepo to v7.26.9 ([#1845](https://github.com/runtime-env/import-meta-env/issues/1845)) ([f92735e](https://github.com/runtime-env/import-meta-env/commit/f92735e9112725783e464b033b73945d513848cb))
+
 ## [0.5.0](https://github.com/runtime-env/import-meta-env/compare/babel0.4.5...babel0.5.0) (2024-09-01)
 
 

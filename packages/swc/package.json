@@ -1,6 +1,6 @@
 {
   "name": "@import-meta-env/swc",
-  "version": "0.4.39",
+  "version": "0.4.40",
   "description": "Build once, deploy anywhere. Startup/runtime environment variable solution for JavaScript.",
   "license": "MIT",
   "author": "Ernest",

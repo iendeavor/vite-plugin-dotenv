@@ -2,6 +2,19 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [0.4.40](https://github.com/runtime-env/import-meta-env/compare/swc0.4.39...swc0.4.40) (2025-03-08)
+
+
+### Bug Fixes
+
+* **deps:** pin dependencies ([#1788](https://github.com/runtime-env/import-meta-env/issues/1788)) ([6f42d9e](https://github.com/runtime-env/import-meta-env/commit/6f42d9e97ff8c04940b1c0df285e0704b2719517))
+* **deps:** pin dependencies ([#1963](https://github.com/runtime-env/import-meta-env/issues/1963)) ([1c79935](https://github.com/runtime-env/import-meta-env/commit/1c799355a77e15cb84248c32656a819822f4a8d7))
+* **deps:** update rust crate rust-ini to v0.21.1 ([#1972](https://github.com/runtime-env/import-meta-env/issues/1972)) ([e80034b](https://github.com/runtime-env/import-meta-env/commit/e80034b1f34f5fa007ec1e767de43b351982f4ef))
+* **deps:** update rust crate serde to v1.0.218 ([#1973](https://github.com/runtime-env/import-meta-env/issues/1973)) ([36b0f97](https://github.com/runtime-env/import-meta-env/commit/36b0f975da2f749e439d2862a4ac5c9a8252fbfb))
+* **deps:** update rust crate serde_json to v1.0.140 ([#1974](https://github.com/runtime-env/import-meta-env/issues/1974)) ([a474337](https://github.com/runtime-env/import-meta-env/commit/a474337a5099873b87905ba497dbf43a2196062d))
+* **deps:** update rust crate string_cache to v0.8.8 ([#1975](https://github.com/runtime-env/import-meta-env/issues/1975)) ([706592b](https://github.com/runtime-env/import-meta-env/commit/706592b017c867dde0334e69528ad51727373dd0))
+* **deps:** update rust crate swc_core to v13.3.0 ([#1986](https://github.com/runtime-env/import-meta-env/issues/1986)) ([76c2a2c](https://github.com/runtime-env/import-meta-env/commit/76c2a2cee4e82076a05899207aabf380fa3b574b))
+
 ## [0.4.39](https://github.com/runtime-env/import-meta-env/compare/swc0.4.38...swc0.4.39) (2025-02-08)
 
 
