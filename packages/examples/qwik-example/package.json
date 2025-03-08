@@ -35,7 +35,7 @@
     "@typescript-eslint/eslint-plugin": "8.26.0",
     "@typescript-eslint/parser": "8.26.0",
     "cross-env": "7.0.3",
-    "eslint": "8.57.1",
+    "eslint": "9.22.0",
     "eslint-plugin-qwik": "1.12.1",
     "prettier": "3.5.3",
     "typescript": "5.4.5",
